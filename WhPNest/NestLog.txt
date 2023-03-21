@@ -35,3 +35,5 @@
 • Bezpieczeństwo:
 
   - Dodano konto "guest" by umożliwić osobom 3-ecim zalogowanie się do aplikacji bez potrzeby zaglądania w kod systemu
+  
+  
